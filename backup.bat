@@ -1,2 +1,3 @@
 
-xcopy c:\test\* x:\backup\%date:~0,3%\* /Y /Q /S
+xcopy c:\Dexis\* x:\backup\dexisBackup%date:~0,3%\* /Y /Q /S
+xcopy c:\Dentrix\* x:\backup\dentrixBackup%date:~0,3%\* /Y /Q /S
