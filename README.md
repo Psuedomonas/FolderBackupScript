@@ -11,7 +11,7 @@ Where you see \%date:~0,3%\ is the name of the destination folder. If you didnâ€
 
 ----
 See 
-https://www.lifewire.com/xcopy-command-2618103
+https://www.lifewire.com/xcopy-command-2618103 And 
 https://support.microsoft.com/en-us/help/289483/switches-that-you-can-use-with-xcopy-and-xcopy32-commands
 For additional commands
 
