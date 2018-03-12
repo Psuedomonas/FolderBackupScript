@@ -21,4 +21,5 @@ Purpose:
 Create a batch script for Dexis and Dentrix database backup executable by Scheduled Tasks
 
 Progress:
-A demo version I have created is having unknown issues at the moment. I was trying to impliment mmddyyyy filenames usings additional scripts but have had no success in implimenting these. Furthermore attempts to returning to the iniatial script have failed to successfully execute. I am not sure if there is an infinite loop or a strange syntax error I am overlooking due to its simplicity. In any case I cannot be sure if the current implimentation will work untill tested. It would be ideal to be able to adjust the target directory as well.
+Batch won't run on test machine but will run in console... so...
+Would be nice to adjust destination without having to change script, but this will do for now
