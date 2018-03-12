@@ -11,4 +11,4 @@ Where you see \%date:~0,3%\ is the name of the destination folder. If you didnâ€
 
 ----
 Purpose:
-To generate a backup script for important folders that is activatable by windows tasks.
+To generate a backup script for important folders that is activatable as a windows task.
