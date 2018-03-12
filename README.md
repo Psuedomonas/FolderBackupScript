@@ -1,6 +1,5 @@
 # FolderBackupScript
 Initial Code from
-
 http://teamtutorials.com/windows-tutorials/create-a-windows-daily-backup-script 
 May 9, 2007
 Author Johnathan Ward
