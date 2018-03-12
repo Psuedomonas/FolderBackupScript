@@ -16,6 +16,9 @@ https://www.lifewire.com/xcopy-command-2618103 And
 https://support.microsoft.com/en-us/help/289483/switches-that-you-can-use-with-xcopy-and-xcopy32-commands
 For additional commands
 
+echo Archive_%date:~-4,4%%date:~-10,2%%date:~-7,2%_%time:~0,2%%time:~3,2%%time:~6,2%.zip
+from https://stackoverflow.com/questions/7727114/batch-command-date-and-time-in-file-name for placing date in filename.
+
 ---
 Purpose:
 Create a batch script for Dexis and Dentrix database backup executable by Scheduled Tasks
